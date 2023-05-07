@@ -1,4 +1,4 @@
-package by.teachmeskills.penkovsky.homework25;
+package by.teachmeskills.penkovsky.homework25.models;
 
 public class Series extends Show {
     private final int lastEpisodeYear;

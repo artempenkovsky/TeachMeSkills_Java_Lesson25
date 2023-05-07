@@ -1,4 +1,8 @@
-package by.teachmeskills.penkovsky.homework25;
+package by.teachmeskills.penkovsky.homework25.repository;
+
+import by.teachmeskills.penkovsky.homework25.models.Film;
+import by.teachmeskills.penkovsky.homework25.models.Series;
+import by.teachmeskills.penkovsky.homework25.models.Show;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
